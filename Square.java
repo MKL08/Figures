@@ -50,7 +50,7 @@ public class Square
      */
     public void moveRight()
     {
-        moveHorizontal(20);
+        moveHorizontal(30);
     }
 
     /**
