@@ -46,4 +46,5 @@ to draw a picture. It can be used to experiment with coding.
 Answers to questions:
 1. If you press makeInvisible or moveDown twice, it will move acordingly on your canvas.
 2. If you type a colour that is not available, the shape will turn black.
+3. The achieve the shape in different wasy is possible by either doing moveVertical or moveHorizontal with a specific distance of pixels of which you want it to be moved to.
 
