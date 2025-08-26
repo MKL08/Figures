@@ -44,4 +44,5 @@ to draw a picture. It can be used to experiment with coding.
 
 
 Answers to questions:
+1. If you press moveLeft or moveRight twice, it will move acordingly on your canvas.
 
