@@ -44,5 +44,6 @@ to draw a picture. It can be used to experiment with coding.
 
 
 Answers to questions:
-1. If you press moveLeft or moveRight twice, it will move acordingly on your canvas.
+1. If you press makeInvisible or moveDown twice, it will move acordingly on your canvas.
+2. If you type a colour that is not available, the shape will turn black.
 
